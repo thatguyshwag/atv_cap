@@ -1,0 +1,41 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: white
+}
+
+#section_about {
+    margin: 100px;
+    border: 5px solid red;
+    text-align: center;
+}
+
+#section_xp {
+    border: 2px solid red;
+    margin: 10px;
+    padding-left: 50px;
+    text-align: center;
+}
+
+#section_tastes {
+    margin: 10px;
+    text-align: center;
+    border: 2px solid red;
+    padding-left: 50px;
+}
+
+#annPunch {
+    display: flex;
+    justify-content: right;
+}
+
+#section_contact {
+    text-align: center;
+}
+
+#SimonPFP {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid red;
+}
