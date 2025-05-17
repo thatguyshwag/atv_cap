@@ -78,3 +78,14 @@ body {
   background-color: #3498db;
   border-radius: 10px;
 }
+
+.gallery_img {
+    border: 2px solid darkred;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imglol {
+    width: 35%;
+    height: 35%;
+}
