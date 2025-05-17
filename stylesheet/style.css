@@ -33,6 +33,10 @@ body {
     text-align: center;
 }
 
+#section_aprendizado {
+    text-align: center;
+}
+
 #SimonPFP {
     display:block;
     margin-left: auto;
@@ -75,7 +79,7 @@ body {
 
 .progress {
   height: 100%;
-  background-color: #3498db;
+  background-color: #ee1d1d;
   border-radius: 10px;
 }
 
