@@ -46,13 +46,35 @@ body {
 }
 
 #zap {
+    background-color: aliceblue;
     border: 4px solid red;
+    display:flex;
+    justify-content: center;
 }
 
 .space-even {
     display: flex;
     justify-content: space-between;
+    border: 2px solid red;
 }
 .dep_pic {
-    width:30%
+    width:30%;
+    border: 2px solid darkred;
+}
+
+.skill {
+  margin-bottom: 20px;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 20px;
+  background-color: #e0e0e0;
+  border-radius: 10px;
+}
+
+.progress {
+  height: 100%;
+  background-color: #3498db;
+  border-radius: 10px;
 }
